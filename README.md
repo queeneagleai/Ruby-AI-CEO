@@ -258,6 +258,6 @@ MIT
 I help businesses automate repetitive work with AI agents, workflows and no-code tools, and I teach people how to build practical AI automations themselves. My background is in HR recruitment and teaching, which shapes how I design systems: clear rules, human judgment where it matters, and explanations anyone can follow.
 
 - Portfolio: (https://queeneagleai-plum-iota.vercel.app)
-- LinkedIn: (https://www.linkedin.com/in/queen-ikwuji)
+- LinkedIn: (https://www.linkedin.com/in/queen-ikwuji-8b925524a)
 
 **Want something like this for your business?** Get in touch through my Linkedin DM.
